@@ -1,0 +1,1 @@
+zaas,531,Tuna,Common,10 lbs,Salmon,Legendary,8 lbs,Catfish,Uncommon,19 lbs,Bass,Uncommon,8 lbs,Barracuda,Common,16 lbs,Bass,Rare,9 lbs
